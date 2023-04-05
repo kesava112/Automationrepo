@@ -1,0 +1,32 @@
+{
+    "masterData":{
+        "navigation":{
+            "platform":{
+                "name":"Platform",
+                "values":[
+                    {
+                        "name":"Online Browser Testing",
+                        "offerings" :"Online Cross Browser Testing Tool"
+                    },
+                    {
+                        "name":"Selenium Testing",
+                        "offerings" :"Selenium Automation Testing on Cloud"
+                    },
+                    {
+                        "name":"Cypress Testing",
+                        "offerings":"Cypress Automation Testing Online"
+                    },
+                    {
+                        "name":"Playwright Testing",
+                        "offerings":"Run Automated Playwright Tests Online"
+                    },
+                    {
+                        "name":"Native Mobile App Testing",
+                        "offerings":"Accelerate Delivery With Mobile App Testing Cloud"
+                    }
+
+                ]
+            }
+        }
+    }
+}
